@@ -1,0 +1,67 @@
+ECLIPSE INDIGO
+CheckStyle -> http://eclipse-cs.sf.net/update
+PMD -> http://sourceforge.net/projects/pmd/files/pmd-eclipse/update-site/
+FindBugs -> http://findbugs.cs.umd.edu/eclipse/
+Subclipse SVN -> http://subclipse.tigris.org/update_1.8.x
+Maven -> http://download.eclipse.org/technology/m2e/releases
+Maven Integración (NO) ->http://community.polarion.com/projects/subversive/download/integrations/update-site/
+
+ECLIPSE JUNO
+CheckStyle -> http://eclipse-cs.sf.net/update
+PMD -> http://sourceforge.net/projects/pmd/files/pmd-eclipse/update-site/
+FindBugs -> http://findbugs.cs.umd.edu/eclipse/
+Subclipse SVN -> http://subclipse.tigris.org/update_1.8.x
+Maven -> http://download.eclipse.org/technology/m2e/releases
+Maven Integración (NO) ->http://community.polarion.com/projects/subversive/download/integrations/update-site/  
+
+ECLIPSE KEPLER
+CheckStyle -> http://eclipse-cs.sf.net/update
+PMD -> http://sourceforge.net/projects/pmd/files/pmd-eclipse/update-site/
+FindBugs -> http://findbugs.cs.umd.edu/eclipse/
+Subclipse SVN -> http://subclipse.tigris.org/update_1.8.x
+Maven -> http://download.eclipse.org/technology/m2e/releases
+Maven Integración (NO) ->http://community.polarion.com/projects/subversive/download/integrations/update-site/  
+
+
+ECLIPSE LUNA (4.2.2)
+CheckStyle -> http://eclipse-cs.sf.net/update (checkSyle 6.11) -> Se descarga el fichero 5.6.0 y se instala desde el eclipse.
+PMD -> http://sourceforge.net/projects/pmd/files/pmd-eclipse/update-site/ -> PMD for Eclipse 4 --> 4.0.7
+FindBugs -> http://findbugs.cs.umd.edu/eclipse/ -> Se instala la versión por defecto: 3.0.1
+Subclipse SVN -> http://subclipse.tigris.org/update_1.8.x
+Maven -> http://download.eclipse.org/technology/m2e/releases  (Por defecto: versión 1.5.1)
+m2eclipse Subclipse Integration -> http://subclipse.tigris.org/m2eclipse/latest/ -> 0.13.0
+
+ECLIPSE MARK (4.5.0)
+CheckStyle -> http://eclipse-cs.sf.net/update (checkSyle 6.11) -> Se descarga el fichero 5.6.0 y se instala desde el eclipse.
+PMD -> http://sourceforge.net/projects/pmd/files/pmd-eclipse/update-site/ -> PMD for Eclipse 4 --> 4.0.7
+FindBugs -> http://findbugs.cs.umd.edu/eclipse/ -> Se instala la versión por defecto: 3.0.1
+Subclipse SVN -> http://subclipse.tigris.org/update_1.8.x
+Maven -> http://download.eclipse.org/technology/m2e/releases  (Por defecto: versión 1.6.0) -> versión 3.3.3 de Maven
+m2eclipse Subclipse Integration -> http://subclipse.tigris.org/m2eclipse/latest/ -> 0.13.0
+
+
+m2e Connector for Maven Dependency Plugin Site -> http://ianbrandt.github.io/m2e-maven-dependency-plugin/0.0.4/
+Maven Integration for Eclipse Update Site -> http://download.eclipse.org/technology/m2e/releases/1.4/1.4.1.20140328-1905
+Maven Integration for Eclipse Update Site -> http://download.eclipse.org/technology/m2e/releases/1.5/1.5.0.20140606-0033
+Mylyn for Eclipse 3.6, 3.7 and 3.8 -> http://archive.eclipse.org/mylyn/drops/3.8.0/v20120612-0600
+Mylyn for Eclipse Mars -> http://download.eclipse.org/mylyn/releases/mars
+SonarQube -> http://downloads.sonarsource.com/eclipse/eclipse-archives/3.1.1/
+Atlanssian Jira Connector -> http://update.atlassian.com/atlassian-eclipse-plugin/e3.6
+Eclemma -> http://update.eclemma.org
+Eclipse XPath evaluation - update site -> https://raw.githubusercontent.com/stoupa91/eclipse-xpath-evaluation-plugin/master/eclipse-xpath-evaluation-plugin-update-site/
+TestNG -> http://beust.com/eclipse
+
+
+ECLIPSE NEON (4.6.2)
+Subclipse 1.8.x Update Site -> http://subclipse.tigris.org/update_1.8.x
+Subclipse 1.12.x Update Site -> https://dl.bintray.com/subclipse/archive/release/1.12.x/
+Maven -> http://download.eclipse.org/technology/m2e/releases  (Por defecto: versión 1.6.0) -> versión 3.3.3 de Maven
+m2eclipse Subclipse Integration -> http://subclipse.tigris.org/m2eclipse/latest/ -> 0.13.0
+m2e Connector for Maven Dependency Plugin Site -> http://ianbrandt.github.io/m2e-maven-dependency-plugin/0.0.4/
+SonarQube 3.5.1 -> http://downloads.sonarsource.com/eclipse/eclipse-archives/3.1.1/
+
+Versiones Anteriore:
+
+Maven -> http://m2eclipse.sonatype.org/update/
+Maven Extras -> http://m2eclipse.sonatype.org/sites/m2e-extras
+Maven Integration for Eclipse -> http://m2eclipse.sonatype.org/sites/m2e
